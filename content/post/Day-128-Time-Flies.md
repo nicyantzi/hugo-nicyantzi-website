@@ -1,8 +1,9 @@
 ---
-title: "Time flies... when doing your MBA!"
-date: 2017-10-25T19:58:09-03:00
+title: "Day 128: Time is flying!"
+date: 2017-10-26T00:00:36-03:00
 draft: false
 ---
+
 
 Today is day 128 of our MBA program. The saying "time flies when your having fun" could not be more true. Time also flies when you are doing your MBA.
 
