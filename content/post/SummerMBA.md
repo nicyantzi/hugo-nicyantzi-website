@@ -1,6 +1,6 @@
 ---
 title: "Time flies... when doing your MBA!"
-date: 2017-09-05T19:58:09-03:00
+date: 2017-10-25T19:58:09-03:00
 draft: false
 ---
 
